@@ -1,0 +1,28 @@
+name: managua
+favicon: null
+layout_spectrum: 0.8405281812883914
+typography_spectrum: 0.7433261319529265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8595034030731767
+  lightness: 0.7972162708174437
+  saturation: 0.6706436411477625
+  rhythmicContrast: 0.8094254478346556
+purpose: []
