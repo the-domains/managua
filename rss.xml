@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[managua]]></title>
         <description><![CDATA[managua]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 23:26:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 23:26:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2524a98-4a57-442f-a60c-ef99e2c8075c.png">]]></description>
+            <link>https://thegrid.ai/managua/1b3b4c98-b5b9-4e4d-a499-83a2d269de2d/index.html</link>
+            <guid isPermaLink="false">1b3b4c98-b5b9-4e4d-a499-83a2d269de2d</guid>
+            <pubDate>Mon, 29 Feb 2016 23:26:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcee290c-ba3c-4909-b2bc-20de9483ebdc.jpg">]]></description>
-            <link>undefinedc2790bca-c290-4ab2-a3ba-46391de876c3/index.html</link>
+            <link>https://thegrid.ai/managua/c2790bca-c290-4ab2-a3ba-46391de876c3/index.html</link>
             <guid isPermaLink="false">c2790bca-c290-4ab2-a3ba-46391de876c3</guid>
             <pubDate>Mon, 29 Feb 2016 23:26:02 GMT</pubDate>
         </item>
