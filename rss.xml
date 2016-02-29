@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[managua nicaragua]]></title>
         <description><![CDATA[managua nicaragua]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 15:09:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 15:24:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee0dc7b-34e9-49d3-81e3-be0ce8b1d0b1.jpg">]]></description>
-            <link>undefinedf9b4217d-781b-4c3b-9667-724b1b600bdf/index.html</link>
+            <title><![CDATA[Monumental Managua ]]></title>
+            <description><![CDATA[<article><h1>Monumental Managua </h1><p>http://laic.columbia.edu/journal-undergraduate-research/the-cycle-impermanence-collective-memory-and-the-politics-monuments-managua-nicaragua/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/136eba108f5b3796df96233054e89fea0247847d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/managua/f9b4217d-781b-4c3b-9667-724b1b600bdf/index.html</link>
             <guid isPermaLink="false">f9b4217d-781b-4c3b-9667-724b1b600bdf</guid>
-            <pubDate>Mon, 29 Feb 2016 15:09:13 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 15:24:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
