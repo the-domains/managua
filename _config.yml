@@ -1,4 +1,4 @@
-name: m a n a g u a
+name: managua
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d1d8db'
-    - '#0a0c13'
-    - '#6e8fba'
-    - '#4b5455'
-    - '#880e13'
+    - '#ecedf1'
+    - '#181310'
+    - '#b7b9c5'
+    - '#313234'
+    - '#808186'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
