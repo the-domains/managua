@@ -1,6 +1,6 @@
-name: managua
+name: m a n a g u a
 favicon: null
-layout_spectrum: 0.51906
+layout_spectrum: 0
 typography_spectrum: 0.76116
 title: managua
 cta:
@@ -23,7 +23,7 @@ color:
     - '#4b5455'
     - '#880e13'
   brandStrength: 0
-  lightness: 0.25
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
