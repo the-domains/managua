@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T17:15:59.297Z'
-dateModified: '2016-03-01T17:00:30.062Z'
+datePublished: '2016-03-01T18:25:16.264Z'
+dateModified: '2016-03-01T18:25:15.900Z'
 title: An illness called Managua
 author: []
 sourcePath: _posts/2016-03-01-an-illness-called-managua.md
