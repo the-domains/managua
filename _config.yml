@@ -1,6 +1,6 @@
 name: managua
 favicon: null
-layout_spectrum: 0.2568
+layout_spectrum: 0.75529
 typography_spectrum: 0
 title: managua
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ecedf1'
-    - '#181310'
-    - '#b7b9c5'
-    - '#313234'
-    - '#808186'
+    - '#000000'
+    - '#fefefe'
+    - '#584a3b'
+    - '#abae95'
+    - '#b6443b'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
