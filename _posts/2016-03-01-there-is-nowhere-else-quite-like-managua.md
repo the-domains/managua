@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T18:25:43.839Z'
-dateModified: '2016-03-01T17:19:00.261Z'
+datePublished: '2016-03-01T18:26:14.428Z'
+dateModified: '2016-03-01T18:26:07.532Z'
 title: There Is Nowhere Else Quite Like Managua
 author: []
 sourcePath: _posts/2016-03-01-there-is-nowhere-else-quite-like-managua.md
