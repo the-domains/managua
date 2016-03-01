@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T04:49:23.555Z'
-dateModified: '2016-03-01T04:48:54.332Z'
+datePublished: '2016-03-01T04:53:33.474Z'
+dateModified: '2016-03-01T04:53:24.387Z'
 title: There Is Nowhere Else Quite Like Managua
 author: []
+sourcePath: _posts/2016-03-01-there-is-nowhere-else-quite-like-managua.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-there-is-nowhere-else-quite-like-managua.md
-published: true
 url: there-is-nowhere-else-quite-like-managua/index.html
 _type: Article
 
