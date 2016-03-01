@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T04:53:49.810Z'
-dateModified: '2016-03-01T04:53:49.403Z'
+datePublished: '2016-03-01T18:26:25.738Z'
+dateModified: '2016-03-01T18:26:08.990Z'
 title: The Politics of Monuments in Managua
 author: []
 sourcePath: _posts/2016-03-01-the-politics-of-monuments-in-managua.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-politics-of-monuments-in-managua/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The Politics of Monuments in Managua
