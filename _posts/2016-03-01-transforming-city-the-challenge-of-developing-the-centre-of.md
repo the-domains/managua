@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T05:23:37.458Z'
-dateModified: '2016-03-01T22:43:31.629Z'
-title: 'Transforming City: The Challenge of Developing the Centre of Managua'
+datePublished: '2016-03-02T05:24:03.302Z'
+dateModified: '2016-03-02T05:23:58.266Z'
+title: Transforming City
 author: []
 sourcePath: _posts/2016-03-01-transforming-city-the-challenge-of-developing-the-centre-of.md
 published: true
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-# Transforming City: The Challenge of Developing the Centre of Managua
+# Transforming City
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc8d3670-77ec-40f8-ae16-e40bfa6ed5e3.jpg)
 
 [Roland Krebs][0]
