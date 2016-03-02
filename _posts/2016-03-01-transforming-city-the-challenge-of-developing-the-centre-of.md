@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T22:43:21.410Z'
-dateModified: '2016-03-01T21:50:04.749Z'
+datePublished: '2016-03-02T05:23:37.458Z'
+dateModified: '2016-03-01T22:43:31.629Z'
 title: 'Transforming City: The Challenge of Developing the Centre of Managua'
 author: []
 sourcePath: _posts/2016-03-01-transforming-city-the-challenge-of-developing-the-centre-of.md
