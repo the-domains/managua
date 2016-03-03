@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T05:22:54.729Z'
-dateModified: '2016-03-02T05:22:54.339Z'
+datePublished: '2016-03-03T01:09:00.860Z'
+dateModified: '2016-03-02T22:47:08.099Z'
 title: The Politics of Monuments in Managua
 author: []
 sourcePath: _posts/2016-03-01-the-politics-of-monuments-in-managua.md
@@ -23,7 +23,7 @@ _type: Blurb
 
 ---
 # The Politics of Monuments in Managua
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e6a041c-0548-4208-848f-30de3307ff5e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/09fdc2530d4353ca9061087f2ef8976db6aaca9e.jpg)
 
 [Annelise Finney][0]
 
