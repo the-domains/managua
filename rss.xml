@@ -4,8 +4,15 @@
         <description><![CDATA[managua]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 18:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 18:59:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Managua - Nadsat]]></title>
+            <description><![CDATA[<article><h1>Managua - Nadsat</h1><p>Primer rola grabada en estudio, para el deleite del que nos pille la jugada!. Una combinación entre percepción de un tema social y ritmo salido de nuestras facultades! Con mucho gusto les presentamos Managua! Cesar Caceres - Voz Miguel Navarrete - Guitarra/Voces Juberth Flores - Bajo/Voces Jamil Zeledón - Teclados Swynton Hodson - Batería Mezcla, masterización y grabación: Leonardo Canales,Arboleda Estudio.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77f3774c957e1a86b532dc08359b72f7ac7823be.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DetchZDT9Tk</link>
+            <guid isPermaLink="false">9255ef6e-536c-4719-82c7-c6fd00cee3d6</guid>
+            <pubDate>Thu, 03 Mar 2016 18:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 1972 Managua Earthquake - A City Destroyed]]></title>
             <description><![CDATA[<article><h1>The 1972 Managua Earthquake - A City Destroyed</h1><p>In 1972 an earthquake with a magnitude of 6.2 struck Nicaragua and destroyed its capital city, Managua. The events following this devastating natural disaster contributed greatly to the Sandinista Revolution a few...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/487911de0ae2102581db1ab657d7d7db5df835d7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/managua/cb58c290-8056-4b6b-acc6-3ab0a91b740b/index.html</link>
             <guid isPermaLink="false">cb58c290-8056-4b6b-acc6-3ab0a91b740b</guid>
             <pubDate>Thu, 03 Mar 2016 01:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b824cda9731d844db47a3cf59ea49ff79c8bed09.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/managua/bcb6fa94-5336-4479-b047-894d5eca1ada/index.html</link>
-            <guid isPermaLink="false">bcb6fa94-5336-4479-b047-894d5eca1ada</guid>
-            <pubDate>Thu, 03 Mar 2016 01:09:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
