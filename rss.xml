@@ -4,8 +4,15 @@
         <description><![CDATA[managua]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 18:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 18:38:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://tile.memomaps.de/tilegen/13/2134/3818.png">]]></description>
+            <link>https://thegrid.ai/managua/ca1e6602-cfa4-4070-94d9-42fbc64cc540/index.html</link>
+            <guid isPermaLink="false">ca1e6602-cfa4-4070-94d9-42fbc64cc540</guid>
+            <pubDate>Thu, 03 Mar 2016 18:37:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[¡Nos Juimos!]]></title>
             <description><![CDATA[<article><h1>¡Nos Juimos!</h1><p>Todos buscamos cosas nuevas, diferentes maneras de divertirnos, conocer y relacionarnos con nuevas personas. Compartí con gente tuani y pateperro, uníte a los que decimos ¡Nos Juimos!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55a86ee00a6d7bcad33833c15910d286fd6c8022.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/managua/bcb6fa94-5336-4479-b047-894d5eca1ada/index.html</link>
             <guid isPermaLink="false">bcb6fa94-5336-4479-b047-894d5eca1ada</guid>
             <pubDate>Thu, 03 Mar 2016 01:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63d1aa901ca2987f82e359e75f050f9ba35320f4.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/managua/1b3b4c98-b5b9-4e4d-a499-83a2d269de2d/index.html</link>
-            <guid isPermaLink="false">1b3b4c98-b5b9-4e4d-a499-83a2d269de2d</guid>
-            <pubDate>Thu, 03 Mar 2016 01:54:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
