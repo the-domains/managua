@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T05:40:15.014Z'
-dateModified: '2016-03-02T05:28:11.023Z'
+datePublished: '2016-03-03T01:24:49.546Z'
+dateModified: '2016-03-03T01:12:28.346Z'
 title: An illness called Managua
 author: []
 sourcePath: _posts/2016-03-01-an-illness-called-managua.md
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: an-illness-called-managua/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d963fd7-d024-4f82-a2a9-ba301a1fa57d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e1fc873a17948160836930c382f9e867332c4a5.png)
 
 # An illness called Managua
 
