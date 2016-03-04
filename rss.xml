@@ -4,8 +4,15 @@
         <description><![CDATA[managua]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 19:32:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Abril en Managua" 1982 Concierto completo]]></title>
+            <description><![CDATA[<article><h1>"Abril en Managua" 1982 Concierto completo</h1><p>Del Disco: "Abril en Managua" Grabado en vivo Brasil - Acompañando a Chico Buarque y Raymundo Fagner: Jamil Joanes (Contrabajo), Manazas (guitarra cavaquino), Chico batera (percusión), Helvius Vilhela (piano eléctrico), Paolo Braga (batería). Argentina - Acompañando a Mercedes Sosa: Domingo Cura (percusión), José Luis Castiñeira de Dios (bajo eléctrico), Narciso Omar Espinoza (guitarra).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef113daeb88c32ecefddd6d7ed8e95a3e08d980d.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=oGguOuI9Gg8</link>
+            <guid isPermaLink="false">b10ef5c2-4cf6-419d-8e1b-3651394a6f19</guid>
+            <pubDate>Fri, 04 Mar 2016 19:29:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Managua]]></title>
             <description><![CDATA[<article><h1>Managua</h1><p>La Ciudad de Managua es la capital de Nicaragua, y tiene una población estimada en un millón de habitantes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b965b7fedad6805fdb3f29e2c4c23b26f279d898.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.managuafuriosa.com/managua-para-quien/</link>
             <guid isPermaLink="false">8f767b8a-5801-4d90-99ee-b2b92e7f3fd4</guid>
             <pubDate>Thu, 03 Mar 2016 16:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31353232-1f43-4136-97bd-d4457242943c.jpg">]]></description>
-            <link>https://thegrid.ai/managua/7147a09c-dc93-46ea-8077-cf9b8a443529/index.html</link>
-            <guid isPermaLink="false">7147a09c-dc93-46ea-8077-cf9b8a443529</guid>
-            <pubDate>Thu, 03 Mar 2016 03:47:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
