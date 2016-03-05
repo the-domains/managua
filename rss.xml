@@ -4,8 +4,15 @@
         <description><![CDATA[managua]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 17:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 17:17:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Managua antes del terremoto del 72]]></title>
+            <description><![CDATA[<article><h1>Managua antes del terremoto del 72</h1><p>La entrañable capital de la República Managua lucía, serena y hermosa, pese a todos los reproches que le achacabamos por incomodidades y suciedad por descuidos del Distrito Nacional, y horas antes de que el "terremoto asesino" del 72 desatara su furia contra ella.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f50ec2b88c5982567f6ca4a5bffb9f1edd90626e.jpg"></article>]]></description>
+            <link>https://vimeo.com/56142496</link>
+            <guid isPermaLink="false">4bb37148-78d0-43bb-b746-f9c1926e0b04</guid>
+            <pubDate>Sat, 05 Mar 2016 17:17:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AWAMAN - MANAWA NICARAWA]]></title>
             <description><![CDATA[<article><h1>AWAMAN - MANAWA NICARAWA</h1><p>Un proyecto de Jonathan Harker en colaboración con Iñaki Iriberri y Rodrigo Sánchez de Señor Loop. Manawa Nicarawa producida por Iñaki Iriberri y Rodrigo Sánchez. Voz de AWAMAN por Rodrigo Sánchez. Contiene extractos de Managua, Nicaragua escrita por I. Fields y A. Gamse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f8cb582d18a2729acea69669ff2d4a7a6e2aec.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thebackpackershandbook.com/2009/11/04/the-1972-managua-earthquake-a-city-destroyed/</link>
             <guid isPermaLink="false">2aebcc42-ce23-4554-9451-61ba6c618a89</guid>
             <pubDate>Thu, 03 Mar 2016 18:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¡Nos Juimos!]]></title>
-            <description><![CDATA[<article><h1>¡Nos Juimos!</h1><p>Todos buscamos cosas nuevas, diferentes maneras de divertirnos, conocer y relacionarnos con nuevas personas. Compartí con gente tuani y pateperro, uníte a los que decimos ¡Nos Juimos!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55a86ee00a6d7bcad33833c15910d286fd6c8022.jpg"></article>]]></description>
-            <link>http://nosjuimos.com/</link>
-            <guid isPermaLink="false">84eb425d-a43d-4c73-a479-15c08e75a494</guid>
-            <pubDate>Thu, 03 Mar 2016 18:25:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
