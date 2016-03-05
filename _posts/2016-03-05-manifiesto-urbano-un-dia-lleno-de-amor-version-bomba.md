@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=V_cmIbXjKys'
+inLanguage: es
+starred: false
+keywords: []
+description: 'Saludos a todos! Para quienes querían un poco más de baile acá les dejamos una segunda versión de ¨Un Día Lleno De Amor¨ Ojalá les guste! Un Día Lleno De Amor Hoy te lo quiero decir, Con la sonrisa en la cara, En Nicaragua hay amor, Amor, amor, hay tanto amor.'
+datePublished: '2016-03-05T18:27:09.023Z'
+dateModified: '2016-03-05T18:27:00.924Z'
 author:
   - name: Manifiesto Urbano
     url: 'https://www.youtube.com/channel/UCUV4Br2tl1Gp0cjZq_jvlng'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Saludos a todos! Para quienes querían un poco más de baile acá les dejamos una segunda versión de ¨Un Día Lleno De Amor¨ Ojalá les guste! Un Día Lleno De Amor Hoy te lo quiero decir, Con la sonrisa en la cara, En Nicaragua hay amor, Amor, amor, hay tanto amor.'
-inLanguage: es
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=V_cmIbXjKys&feature=applinks'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=V_cmIbXjKys'
 title: Manifiesto Urbano - Un Día Lleno De Amor (Versión Bomba)
-datePublished: '2016-03-05T18:22:11.670Z'
-dateModified: '2016-03-05T18:21:01.744Z'
 sourcePath: _posts/2016-03-05-manifiesto-urbano-un-dia-lleno-de-amor-version-bomba.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
