@@ -4,8 +4,15 @@
         <description><![CDATA[managua]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 18:29:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63d1aa901ca2987f82e359e75f050f9ba35320f4.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/managua/1b3b4c98-b5b9-4e4d-a499-83a2d269de2d/index.html</link>
+            <guid isPermaLink="false">1b3b4c98-b5b9-4e4d-a499-83a2d269de2d</guid>
+            <pubDate>Sat, 05 Mar 2016 18:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Manifiesto Urbano - Un Día Lleno De Amor (Versión Bomba)]]></title>
             <description><![CDATA[<article><h1>Manifiesto Urbano - Un Día Lleno De Amor (Versión Bomba)</h1><p>Saludos a todos! Para quienes querían un poco más de baile acá les dejamos una segunda versión de ¨Un Día Lleno De Amor¨ Ojalá les guste! Un Día Lleno De Amor Hoy te lo quiero decir, Con la sonrisa en la cara, En Nicaragua hay amor, Amor, amor, hay tanto amor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/505d3e8df6219df1e516dd0a95bae0b994734b8b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/87357760</link>
             <guid isPermaLink="false">343f77f4-77e2-4e58-b4fc-3400c193f3a4</guid>
             <pubDate>Fri, 04 Mar 2016 17:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nadsat: música sin esquemas - ManaguaFuriosa.com]]></title>
-            <description><![CDATA[<article><h1>Nadsat: música sin esquemas - ManaguaFuriosa.com</h1><p>Todo comenzó con la Naranja Mecánica y 6 chavalos amantes de la música. Así fue como Nadsat, que significa adolescente en la jerga del libro, se ha convertido en sinónimo de sonidos impetuosos y buena vibra.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/339159b85251f498b0b5f5e50382221a3792a6c4.jpg"></article>]]></description>
-            <link>http://www.managuafuriosa.com/nadsat-musica-sin-esquemas/</link>
-            <guid isPermaLink="false">97018566-553f-48c2-aa52-9d296e562cb4</guid>
-            <pubDate>Thu, 03 Mar 2016 18:58:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
