@@ -4,8 +4,15 @@
         <description><![CDATA[managua]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 19:34:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6fc90f0e7bac6fe2472c2fe0a8e748e767f49e5.jpg" alt="" title="">]]></description>
+            <link>http://www.managuartv.com/wp-content/uploads/2016/01/managua.jpg</link>
+            <guid isPermaLink="false">96fe2d93-b2cf-4343-9b17-ca2e113e2800</guid>
+            <pubDate>Sun, 06 Mar 2016 19:34:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Managua, una capital llena de cantores]]></title>
             <description><![CDATA[<article><h1>Managua, una capital llena de cantores</h1><p>Viste al estilo de los a&ntilde;os sesenta, solo que calza deportivos. Cada tarde se le puede encontrar en Bello Horizonte, en la cercan&iacute;a de ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97c755f3b9227fb62e140dd5dbbbf947e4c7e36a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=oGguOuI9Gg8</link>
             <guid isPermaLink="false">b10ef5c2-4cf6-419d-8e1b-3651394a6f19</guid>
             <pubDate>Fri, 04 Mar 2016 19:29:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managua]]></title>
-            <description><![CDATA[<article><h1>Managua</h1><p>La Ciudad de Managua es la capital de Nicaragua, y tiene una población estimada en un millón de habitantes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b965b7fedad6805fdb3f29e2c4c23b26f279d898.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=FOY88lryfEE</link>
-            <guid isPermaLink="false">094385bd-bd12-44a1-b601-6de6a28b8c65</guid>
-            <pubDate>Fri, 04 Mar 2016 19:29:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
