@@ -4,8 +4,15 @@
         <description><![CDATA[managua]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 17:02:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Managua, una capital llena de cantores]]></title>
+            <description><![CDATA[<article><h1>Managua, una capital llena de cantores</h1><p>Viste al estilo de los a&ntilde;os sesenta, solo que calza deportivos. Cada tarde se le puede encontrar en Bello Horizonte, en la cercan&iacute;a de ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97c755f3b9227fb62e140dd5dbbbf947e4c7e36a.jpg"></article>]]></description>
+            <link>http://www.elnuevodiario.com.ni/nacionales/managua/386809-managua-capital-llena-cantores/</link>
+            <guid isPermaLink="false">1b371904-80b0-481c-b9a7-79d45ab0f466</guid>
+            <pubDate>Sun, 06 Mar 2016 17:01:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63d1aa901ca2987f82e359e75f050f9ba35320f4.png" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=FOY88lryfEE</link>
             <guid isPermaLink="false">094385bd-bd12-44a1-b601-6de6a28b8c65</guid>
             <pubDate>Fri, 04 Mar 2016 19:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managua Nicaragua is a beautiful town. Trailer]]></title>
-            <description><![CDATA[<article><h1>Managua Nicaragua is a beautiful town. Trailer</h1><p>Managua Nicaragua is a Beautiful Town es el título de una canción famosa en los años 40, cuando Managua era la capital de una "república...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cb841add0928db59a5b32675205be4832f4488d.jpg"></article>]]></description>
-            <link>https://vimeo.com/87357760</link>
-            <guid isPermaLink="false">343f77f4-77e2-4e58-b4fc-3400c193f3a4</guid>
-            <pubDate>Fri, 04 Mar 2016 17:18:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
