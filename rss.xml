@@ -4,8 +4,15 @@
         <description><![CDATA[managua life]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 20:03:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd0f451f-bd8b-46be-87aa-ec158dbdd9d1.jpg">]]></description>
+            <link>https://thegrid.ai/managua/3a395a3f-28ce-44c1-9fa9-eb87a76d34e8/index.html</link>
+            <guid isPermaLink="false">3a395a3f-28ce-44c1-9fa9-eb87a76d34e8</guid>
+            <pubDate>Mon, 07 Mar 2016 20:01:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El próximo viernes 11 de Marzo Revuelta Sonora Banda en celebrando el día de la mujer con invitadas de lujo]]></title>
             <description><![CDATA[<article><h1>El próximo viernes 11 de Marzo Revuelta Sonora Banda en celebrando el día de la mujer con invitadas de lujo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c4454fd57d4a66535ae0f1f642b165019ba242a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/56142496</link>
             <guid isPermaLink="false">4bb37148-78d0-43bb-b746-f9c1926e0b04</guid>
             <pubDate>Sat, 05 Mar 2016 17:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AWAMAN - MANAWA NICARAWA]]></title>
-            <description><![CDATA[<article><h1>AWAMAN - MANAWA NICARAWA</h1><p>Un proyecto de Jonathan Harker en colaboración con Iñaki Iriberri y Rodrigo Sánchez de Señor Loop. Manawa Nicarawa producida por Iñaki Iriberri y Rodrigo Sánchez. Voz de AWAMAN por Rodrigo Sánchez. Contiene extractos de Managua, Nicaragua escrita por I. Fields y A. Gamse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f8cb582d18a2729acea69669ff2d4a7a6e2aec.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=VcrbNutZWa0</link>
-            <guid isPermaLink="false">bebf8c13-b29e-4aa4-96d5-40c1df400d7a</guid>
-            <pubDate>Sat, 05 Mar 2016 17:16:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
