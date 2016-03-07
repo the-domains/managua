@@ -4,8 +4,15 @@
         <description><![CDATA[managua life]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 20:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 20:28:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67e8165f-ade8-4b79-917d-da67ec4cf200.jpg">]]></description>
+            <link>https://thegrid.ai/managua/55f250b4-0ae7-430f-beb5-4860847a23bf/index.html</link>
+            <guid isPermaLink="false">55f250b4-0ae7-430f-beb5-4860847a23bf</guid>
+            <pubDate>Mon, 07 Mar 2016 20:28:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nicaragua a la caza de la inversión]]></title>
             <description><![CDATA[<article><h1>Nicaragua a la caza de la inversión</h1><p>En 2015, Nicaragua cerró las Inversiones Extranjeras Directas sobre los 1,500 millones de dólares y para 2016 la pequeña nación ubicada en el ombligo de Centroamérica planea alcanzar los US$1,550 millones, lo que representaría un crecimiento del 4 % en relación al año previo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6e890b3f3bfd370dc5ecd832151e1c882a554a9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/managua/1b3b4c98-b5b9-4e4d-a499-83a2d269de2d/index.html</link>
             <guid isPermaLink="false">1b3b4c98-b5b9-4e4d-a499-83a2d269de2d</guid>
             <pubDate>Sat, 05 Mar 2016 18:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manifiesto Urbano - Un Día Lleno De Amor (Versión Bomba)]]></title>
-            <description><![CDATA[<article><h1>Manifiesto Urbano - Un Día Lleno De Amor (Versión Bomba)</h1><p>Saludos a todos! Para quienes querían un poco más de baile acá les dejamos una segunda versión de ¨Un Día Lleno De Amor¨ Ojalá les guste! Un Día Lleno De Amor Hoy te lo quiero decir, Con la sonrisa en la cara, En Nicaragua hay amor, Amor, amor, hay tanto amor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/505d3e8df6219df1e516dd0a95bae0b994734b8b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=V_cmIbXjKys</link>
-            <guid isPermaLink="false">2e5ef50f-fcb8-4a54-a905-e5e078ee9ab2</guid>
-            <pubDate>Sat, 05 Mar 2016 18:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
