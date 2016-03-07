@@ -1,14 +1,16 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.elnuevodiario.com.ni'
-  name: El Nuevo Diario
-  favicon: 'http://endimages.s3.amazonaws.com/static/img/end-favicon.456e3c2e160e.png'
-  domain: www.elnuevodiario.com.ni
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.elnuevodiario.com.ni/economia/384566-anuncian-construccion-edificio-verde-managua/'
+inLanguage: es
+starred: false
 keywords: []
 description: La torre tendrá ocho pisos y en la planta baja estará una plaza comercial
-inLanguage: es
+datePublished: '2016-03-07T04:19:31.649Z'
+dateModified: '2016-03-07T04:19:19.583Z'
+author: []
+related: []
 app_links:
   - url: 'https://itunes.apple.com/us/app/el-nuevo-diario/id570014145?mt=8'
     namespace: twitter
@@ -25,15 +27,15 @@ app_links:
     type: googleplay
     name: El Nuevo Diario
     id: ni.com.elnuevodiario.locus
-isBasedOnUrl: 'http://www.elnuevodiario.com.ni/economia/384566-anuncian-construccion-edificio-verde-managua/'
 title: 'Anuncian construcción de "edificio verde" en Managua'
-datePublished: '2016-03-07T04:18:53.975Z'
-dateModified: '2016-03-07T04:01:12.796Z'
 sourcePath: _posts/2016-03-07-anuncian-construccion-de-edificio-verde-en-managua.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: El Nuevo Diario
+  domain: www.elnuevodiario.com.ni
+  url: 'http://www.elnuevodiario.com.ni'
+  favicon: 'http://endimages.s3.amazonaws.com/static/img/end-favicon.456e3c2e160e.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
