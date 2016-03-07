@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T19:19:05.027Z'
-dateModified: '2016-03-07T19:15:47.077Z'
+datePublished: '2016-03-07T20:05:58.905Z'
+dateModified: '2016-03-07T19:19:11.841Z'
 title: El próximo viernes 11 de Marzo Revuelta Sonora Banda en celebrando el día de la mujer con invitadas de lujo
 author: []
 sourcePath: _posts/2016-03-07-el-proximo-viernes-11-de-marzo-revuelta-sonora-banda-en-cele.md
