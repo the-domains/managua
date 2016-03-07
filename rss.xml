@@ -4,8 +4,15 @@
         <description><![CDATA[managua life]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 20:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 20:27:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nicaragua a la caza de la inversión]]></title>
+            <description><![CDATA[<article><h1>Nicaragua a la caza de la inversión</h1><p>En 2015, Nicaragua cerró las Inversiones Extranjeras Directas sobre los 1,500 millones de dólares y para 2016 la pequeña nación ubicada en el ombligo de Centroamérica planea alcanzar los US$1,550 millones, lo que representaría un crecimiento del 4 % en relación al año previo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6e890b3f3bfd370dc5ecd832151e1c882a554a9.jpg"></article>]]></description>
+            <link>http://www.el19digital.com/articulos/ver/titulo:39505-nicaragua-a-la-caza-de-la-inversion</link>
+            <guid isPermaLink="false">fa036818-a4b0-47be-b21f-7235f6d2ee03</guid>
+            <pubDate>Mon, 07 Mar 2016 20:27:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/519da10e-5fe1-4b5d-b024-c5cca34f0dc1.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=V_cmIbXjKys</link>
             <guid isPermaLink="false">2e5ef50f-fcb8-4a54-a905-e5e078ee9ab2</guid>
             <pubDate>Sat, 05 Mar 2016 18:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managua necesita "250,000 metros cuadrados de oficinas"]]></title>
-            <description><![CDATA[<article><h1>Managua necesita "250,000 metros cuadrados de oficinas"</h1><p>La Plaza Centroamérica, un complejo que se construye a orillas de la carretera a Masaya, ofrecerá 5,500 metros cuadrados de oficinas, para seguir reduciendo la brecha de este tipo de espacios que padece Managua. "La ciudad necesita unos 250,000 metros cuadrados de oficinas, y solo tiene 50,000", exp</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3c8b6045252ddb2f26c6e141b97f1c334c07133.jpg"></article>]]></description>
-            <link>http://confidencial.com.ni/managua-necesita-250000-metros-cuadrados-de-oficinas/</link>
-            <guid isPermaLink="false">3fc32cb5-f8b4-4f7d-8817-649c70a1695f</guid>
-            <pubDate>Sat, 05 Mar 2016 18:15:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
