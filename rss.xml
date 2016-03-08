@@ -4,8 +4,15 @@
         <description><![CDATA[managua life]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 12:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 22:59:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d7ce7b-46ff-4cee-a28b-972a3f81e725.jpg">]]></description>
+            <link>https://thegrid.ai/managua/07605e03-0b3d-439b-9483-eea35ece0d73/index.html</link>
+            <guid isPermaLink="false">07605e03-0b3d-439b-9483-eea35ece0d73</guid>
+            <pubDate>Tue, 08 Mar 2016 22:57:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6953a772-31a0-40f2-b227-b66f64e3dc78.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.managuartv.com/wp-content/uploads/2016/01/managua.jpg</link>
             <guid isPermaLink="false">96fe2d93-b2cf-4343-9b17-ca2e113e2800</guid>
             <pubDate>Sun, 06 Mar 2016 19:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managua, una capital llena de cantores]]></title>
-            <description><![CDATA[<article><h1>Managua, una capital llena de cantores</h1><p>Viste al estilo de los a&ntilde;os sesenta, solo que calza deportivos. Cada tarde se le puede encontrar en Bello Horizonte, en la cercan&iacute;a de ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97c755f3b9227fb62e140dd5dbbbf947e4c7e36a.jpg"></article>]]></description>
-            <link>http://www.elnuevodiario.com.ni/nacionales/managua/386809-managua-capital-llena-cantores/</link>
-            <guid isPermaLink="false">1b371904-80b0-481c-b9a7-79d45ab0f466</guid>
-            <pubDate>Sun, 06 Mar 2016 17:01:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
