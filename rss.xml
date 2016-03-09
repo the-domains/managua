@@ -4,8 +4,15 @@
         <description><![CDATA[managua life]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 23:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 18:19:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Centro PAC]]></title>
+            <description><![CDATA[<article><h1>Centro PAC</h1><p>Costado Este de la UCA,Managua, Nicaragua.Telefono:2278-1210,FAX:2278-1210,E-mail: webmaster@hispamer.com.ni</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c43234f436f680bd0e49c20e4972e3e9d4635da.png"></article>]]></description>
+            <link>https://hispamer.online.com.ni/Pages/centropac.aspx</link>
+            <guid isPermaLink="false">7f9a58cf-ddcb-4102-b40c-1c458ca42bdf</guid>
+            <pubDate>Wed, 09 Mar 2016 18:18:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/416ee5ee-af26-4fde-a050-6d4d232d1987.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.elnuevodiario.com.ni/economia/384566-anuncian-construccion-edificio-verde-managua/</link>
             <guid isPermaLink="false">f47932b1-03da-4fc6-94be-76892e4cd96c</guid>
             <pubDate>Mon, 07 Mar 2016 18:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://media.web.britannica.com/eb-media/98/93298-050-1BD57410.jpg">]]></description>
-            <link>https://thegrid.ai/managua/50d0a688-e0a5-4a7c-928c-851cbd60ceed/index.html</link>
-            <guid isPermaLink="false">50d0a688-e0a5-4a7c-928c-851cbd60ceed</guid>
-            <pubDate>Sun, 06 Mar 2016 20:24:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
