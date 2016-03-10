@@ -1,6 +1,6 @@
 name: managua
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5068
 typography_spectrum: 0.24058
 title: managua life
 cta:
@@ -22,7 +22,7 @@ color:
     - '#584a3b'
     - '#abae95'
     - '#b6443b'
-  brandStrength: 0.75
+  brandStrength: 0
   lightness: 0.8125
   saturation: 0.25
   rhythmicContrast: 1
