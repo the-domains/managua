@@ -4,8 +4,15 @@
         <description><![CDATA[managua life]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 16:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 18:00:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La Managua de ayer y de hoy]]></title>
+            <description><![CDATA[<article><h1>La Managua de ayer y de hoy</h1><p>La Managua que tradicionalmente conocemos, tiene una historia llena de encanto y sufrimiento.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96968c3cf4a7d5c0ac589a0afcd943be6990586b.jpg"></article>]]></description>
+            <link>http://daleclicnica.com/managua-ayer-hoy/</link>
+            <guid isPermaLink="false">45748f73-4440-4108-8ce1-2f91d674ff9f</guid>
+            <pubDate>Fri, 11 Mar 2016 18:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Managua, ciudad latinoamericana con mayor porcentaje de propietarios - LVDS]]></title>
             <description><![CDATA[<article><h1>Managua, ciudad latinoamericana con mayor porcentaje de propietarios - LVDS</h1><p>Redacción Central | Un informe del Banco Interamericano de Desarrollo (BID) revela que Managua, a pesar de ser una de las naciones más pobres de América Latina y el Caribe, tiene el mayor el porcentaje de propietarios. De acuerdo con el reporte titulado "Se busca vivienda en alquiler.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f235195f845b72f6d42f526c7c01ea9152274214.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/managua/793fec24-0de7-4da2-a45a-ab9c1c6fb217/index.html</link>
             <guid isPermaLink="false">793fec24-0de7-4da2-a45a-ab9c1c6fb217</guid>
             <pubDate>Mon, 07 Mar 2016 20:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd0f451f-bd8b-46be-87aa-ec158dbdd9d1.jpg">]]></description>
-            <link>https://thegrid.ai/managua/3a395a3f-28ce-44c1-9fa9-eb87a76d34e8/index.html</link>
-            <guid isPermaLink="false">3a395a3f-28ce-44c1-9fa9-eb87a76d34e8</guid>
-            <pubDate>Mon, 07 Mar 2016 20:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
