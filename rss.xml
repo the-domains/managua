@@ -4,8 +4,15 @@
         <description><![CDATA[managua life]]></description>
         <link>https://thegrid.ai/managua/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 18:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 18:02:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/managua/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fb5f075-da5d-44de-a4db-0ff674691fa6.jpg">]]></description>
+            <link>https://thegrid.ai/managua/4ab9b7dd-d0eb-4bb7-9f2a-1a234a864454/index.html</link>
+            <guid isPermaLink="false">4ab9b7dd-d0eb-4bb7-9f2a-1a234a864454</guid>
+            <pubDate>Fri, 11 Mar 2016 18:01:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[La Managua de ayer y de hoy]]></title>
             <description><![CDATA[<article><h1>La Managua de ayer y de hoy</h1><p>La Managua que tradicionalmente conocemos, tiene una historia llena de encanto y sufrimiento.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96968c3cf4a7d5c0ac589a0afcd943be6990586b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.el19digital.com/articulos/ver/titulo:39505-nicaragua-a-la-caza-de-la-inversion</link>
             <guid isPermaLink="false">fa036818-a4b0-47be-b21f-7235f6d2ee03</guid>
             <pubDate>Tue, 08 Mar 2016 04:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/519da10e-5fe1-4b5d-b024-c5cca34f0dc1.jpg">]]></description>
-            <link>https://thegrid.ai/managua/793fec24-0de7-4da2-a45a-ab9c1c6fb217/index.html</link>
-            <guid isPermaLink="false">793fec24-0de7-4da2-a45a-ab9c1c6fb217</guid>
-            <pubDate>Mon, 07 Mar 2016 20:16:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
